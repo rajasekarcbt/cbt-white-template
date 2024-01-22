@@ -169,7 +169,9 @@
 }
 
 .logo img{
-    padding: 10px;
+	padding: 10px;
+    /* background-color: #041e42;
+    border-radius: 35px; */
 }
 
 .main-header .main-box .outer-container{

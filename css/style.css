@@ -478,7 +478,7 @@
 	display:inline-block;
 	padding:0px 10px 15px;
 	transition:all 500ms ease;
-	color:var(--white-color);
+	color:var(--color-fifteen);
 	text-transform:capitalize;
 	font-size:var(--font-17);
 	margin-right:var(--margin-right-20);
@@ -1431,11 +1431,6 @@
 .counter-one{
 	background-color: #01011b;
 }
-
-.testimonial-three{
-	background-color: #011a38;
-}
-
 
 
 .client-one_image-box{
@@ -7216,12 +7211,11 @@
 	font-weight:700;
 	margin-top:var(--margin-top-25);
 	font-family:var(--font-family-FiraSans);
-	color: var(--white-color);
 }
 
 .process-one_text{
 	position:relative;
-	color:#a1abb5;
+	color:#6a6a6a;
 	line-height:28px;
 	font-size:var(--font-15);
 	margin-top:var(--margin-top-10);
@@ -7344,7 +7338,6 @@
 
 .sidebar-widget{
 	padding: 21px 2px;
-    background: rgb(4 30 66);
 }
 
 .sidebar-widget h4{
@@ -7354,9 +7347,9 @@
 }
 
 .tools-list span:hover {
-	background: rgb(11 90 219);
-	border-right-color: rgb(11 90 219);
-	border-bottom: rgb(11 90 219);
+	background: rgb(168 197 255);
+	border-right-color: rgb(168 197 255);
+	border-bottom: rgb(168 197 255);
   }
 
 .testimonial-three_image-column{
@@ -7441,6 +7434,7 @@
 
 .sidebar-widget:last-child{
 	margin-bottom:var(--margin-zero);
+	background-color: #eff3f8;
 }
 
 .cat-list{
@@ -7458,8 +7452,7 @@
 	padding:16px 30px;
 	font-size:var(--font-18);
 	border-left:5px solid rgb(4 132 35);
-	color: var(--white-color) !important;
-	background-color: var(--main-color);
+	background-color: rgb(168 197 255);
 	border-color: rgb(4 132 35);
 }
 
@@ -7469,9 +7462,7 @@
 
 .cat-list li a:hover,
 .cat-list li.active a{
-	color:var(--white-color);
-	background-color:var(--main-color);
-	/* border-color:var(--color-seventysix); */
+	background-color:rgb(168 197 255);
 }
 
 /* Contact Widget */
@@ -7583,7 +7574,6 @@
 
 .service-detail p{
 	position:relative;
-	color:var(--white-color);
 	font-size:var(--font-17);
 	margin-bottom:var(--margin-bottom-20);
 }
@@ -7604,7 +7594,7 @@
 .feature-two_inner{
 	position:relative;
 	padding:15px 0px;
-	background-color:var(--color-seventyeight);
+	background-color:#eff3f8;
 }
 
 .feature-two_content{

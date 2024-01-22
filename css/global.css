@@ -828,7 +828,7 @@ a{
 p{
 	position:relative;
 	line-height:28px;
-	color:var(--white-color);
+	color:var(--color-six);
 	font-size:var(--font-16);
 	
 }
@@ -1779,7 +1779,7 @@ img{
 	font-weight:700;
 	text-transform:capitalize;
 	margin-top:var(--margin-top-20);
-	color: var(--white-color);
+	/* color: var(--white-color); */
 }
 
 .sec-title_heading span{
@@ -1789,7 +1789,7 @@ img{
 .sec-title_text{
 	line-height:30px;
 	font-size:var(--font-18);
-	color:var(--white-color);
+	color: var(--color-fifteen);
 	margin-top:var(--margin-top-20);
 }
 
