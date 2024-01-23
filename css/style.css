@@ -7743,26 +7743,26 @@
 	position:relative;
 	line-height:27px;
 	font-size:var(--font-17);
-	color:var(--white-color);
+	color: var(--color-six);
 	margin-bottom:var(--margin-bottom-25);
 }
 
 .clearfix .mobility-list{
 	position: relative;
     padding: 35px 35px;
-    background-color: rgb(4 30 66);
+    background-color: rgb(232 214 254);
 }
 
 .clearfix .mobility-list-two{
 	position: relative;
     padding: 35px 35px;
-    background-color: rgb(4 30 66);
+    background-color: rgb(232 214 254);
 }
 
 .cloud-englist{
 	position: relative;
     padding: 17px 14px;
-    background-color: rgb(4 30 66);
+    background-color: rgb(190 208 253);
 	margin-bottom: 30px;
 }
 
@@ -7774,13 +7774,13 @@
 .opensource-list{
 	position: relative;
     padding: 17px 14px;
-	background-color: rgb(5 62 119);
+	background-color: #f3c5f7;
 }
 
 .careers-list{
 	position: relative;
     padding: 17px 14px;
-    background-color: rgb(4 30 66);
+    background-color: rgb(254 230 184);
 	margin-bottom: 20px;
 }
 
@@ -7802,7 +7802,7 @@
 	position:relative;
 	line-height:30px;
 	font-size:var(--font-17);
-	color:#9da4ad;
+	color:#787d85;
 	padding-left:var(--padding-left-30);
 	margin-bottom:var(--margin-bottom-20);
 }
