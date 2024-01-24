@@ -1155,7 +1155,7 @@ img{
 	font-size: var(--font-16);
 	text-transform: capitalize;
 	font-family:var(--font-family-Rubik);
-	background-color: var(--color-thirtyone);
+	background-color: #017df0;
 }
 
 .btn-style-two:before{
@@ -1171,7 +1171,7 @@ img{
 	transform: translateX(-50%);
 	border-radius: 50%;
 	z-index: 1;
-	background: var(--white-color);
+	background: rgb(197 255 243);
 }
 
 .btn-style-two:hover:before{

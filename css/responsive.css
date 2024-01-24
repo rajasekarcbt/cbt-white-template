@@ -933,6 +933,12 @@
 }
 
 @media only screen and (max-width: 479px) {
+
+	.about-one_counter-block {
+		width: 125px;
+		height: 135px;
+		padding: 5px 20px;
+	}
 	
 	.main-slider_title {
 		line-height: 40px;
