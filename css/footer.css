@@ -20,6 +20,24 @@
     align-items: center;
 }
 
+.footer-maincategory{
+	margin-left: 15px;
+}
+
+.footer-maincategory{
+	margin-left: 15px;
+}
+
+.maincategory-one{
+	color: white;
+	margin-bottom: 5px;
+}
+
+.maincategory-two{
+	color: white;
+	margin-bottom: 5px;
+}
+
 .main-footer .footer-widget{
 	position:relative;
 	margin-bottom:var(--margin-bottom-30);
