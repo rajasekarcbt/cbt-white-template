@@ -175,6 +175,7 @@
 
 .newsletter-widget .social-box{
 	position:relative;
+	margin-top: 30px;
 }
 
 .newsletter-widget .social-box li{
@@ -309,7 +310,7 @@
 
 .quick-link li a:hover{
 	
-	text-decoration:line-through;
+	color: #005df7;
 }
 
 .quick-link li a:before{

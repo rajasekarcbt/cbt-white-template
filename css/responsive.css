@@ -934,6 +934,10 @@
 
 @media only screen and (max-width: 479px) {
 
+	.about-cicle_layer-two{
+		left: -18px !important;
+	}
+
 	.about-one_counter-block {
 		width: 125px;
 		height: 135px;
