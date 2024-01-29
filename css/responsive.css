@@ -932,6 +932,13 @@
 	
 }
 
+@media screen and (max-width:580px){
+	.slider-two .owl-stage {
+		height: 680px;
+		overflow: hidden;
+	}
+	}
+
 @media only screen and (max-width: 479px) {
 
 	.about-cicle_layer-two{

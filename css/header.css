@@ -1488,7 +1488,7 @@
 
 .main-header .mobile-menu .navigation li:hover > a,
 .main-header .mobile-menu .navigation li.current > a{
-	color: var(--black-color);
+	color: var(--white-color);
 }
 
 .mobile-social_box{
